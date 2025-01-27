@@ -17,8 +17,9 @@ Performance Data
 Output
 
 Weak and strong topics.
+
 Personalized recommendations.
+
 Student persona classification.
 
-Contributing
 Contributions are welcome! Fork the repo and submit a pull request.
